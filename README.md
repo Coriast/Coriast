@@ -3,6 +3,6 @@
 
 <p align="">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,cpp,c, mysql" />
+    <img src="https://skillicons.dev/icons?i=cs,cpp,c,mysql" />
   </a>
 </p>
